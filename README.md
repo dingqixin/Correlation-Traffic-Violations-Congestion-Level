@@ -1,12 +1,12 @@
 # Correlation: Traffic Violations & Congestion Level
 In large cities, for example Chicago, traffic is one of the most important issues in daily life. Traffic violations, such as overspeed and running red lights, can result in serious injuries and deaths. By studying the correlation between the traffic violations and congestion level, hopefully we can get some insights on reducing traffic violations and improve road safety condition.
 
-## Group 14
-* A13759893 Arun Sugumar
-* A13645764 Zichao Wu
-* A91068067 Xiaoxin Xu
-* A91115090 Qixin Ding
-* U07573172 Lijiu Liang
+## Team Member
+* Arun Sugumar
+* Zichao Wu
+* Xiaoxin Xu
+* Lijiu Liang
+* Qixin Ding
 
 ## Note
 The time overlap of these four datasets is 2014.7.1 ~ 2014.12.31. Red light violation has 48959 entries that falls within that time range while speed violation has 16318 entries.
